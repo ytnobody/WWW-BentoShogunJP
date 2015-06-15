@@ -1,0 +1,4 @@
+name = "WWW-BentoShogunJP"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
