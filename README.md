@@ -1,6 +1,6 @@
 # NAME
 
-WWW::BentoShogunJP - 弁当将軍スクレーピングライブラリ
+WWW::BentoShogunJP - 弁当将軍スクレーピングライブラリ！！！！！！！！
 
 # SYNOPSIS
 
